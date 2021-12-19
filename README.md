@@ -1,11 +1,15 @@
 ### Hi there 👋
 
+I'm a Full-Stack Developer working in Ankara, Turkey.
+
+- 🔭 I’m currently working on Vue and .NET Core. 
+- How to reach me: <a href="https://www.linkedin.com/in/burak-%C5%9Fen-38a009126/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="buraksen" height="30" width="30" /></a>
 <!--
 **buraksenb/buraksenb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
